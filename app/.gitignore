@@ -1,2 +1,3 @@
 /build
+#if you don't use proguard, this should be fine
 /proguard-rules.pro
